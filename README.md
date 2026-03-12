@@ -52,7 +52,7 @@ Eğitim sürecini başlatmak için `main.py` dosyasını çalıştırın:
 python main.py
 ```
 
-Bu komut, `config.py` dosyasında belirtilen parametrelere göre modeli yükleyecek, LoRA adaptörlerini ekleyecek ve `turkerberkdonmez/TUSGPT-TR-Medical-Dataset-v1` veri seti üzerinde fine-tuning yapacaktır. Eğitilmiş model `kumru-medical-lora` dizinine kaydedilecektir.
+Bu komut, `config.py` dosyasında belirtilen parametrelere göre modeli yükleyecek, LoRA adaptörlerini ekleyecek ve `turkerberkdonmez/TUSGPT-TR-Medical-Dataset-v1` veri seti üzerinde fine-tuning yapacaktır. Eğitilmiş model `kumru-medical-lora` https://huggingface.co/anilsrml/Kumru-2B-TUS-Medical  dizinine kaydedilecektir.
 
 ### İnce Ayarlanmış Modeli Test Etme
 
