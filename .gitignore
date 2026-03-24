@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+
+kumru-medical-lora/
+unsloth_compiled_cache/
+
+*.safetensors
+*.bin
+*.pt
+*.ckpt
+
+.env
+.env.*

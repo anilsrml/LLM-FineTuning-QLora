@@ -1,0 +1,18 @@
+# Unsloth - hızlandırılmış QLoRA eğitimi (CUDA 12.4 için)
+unsloth[cu124] @ git+https://github.com/unslothai/unsloth.git
+
+# Temel eğitim kütüphaneleri
+torch>=2.4.0
+transformers>=4.45.0
+accelerate>=0.34.0
+peft>=0.13.0
+bitsandbytes>=0.44.0
+trl>=0.12.0
+
+# Veri seti
+datasets>=3.0.0
+
+# Yardımcı
+huggingface_hub>=0.25.0
+sentencepiece
+protobuf
